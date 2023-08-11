@@ -98,6 +98,11 @@ _**Demo Script:**_
 bash demo.sh
 ~~~
 
+_Example Demo Magic Output_
+https://github.com/cbowland/skupper-mysql/assets/1307303/552caa98-e284-46f4-b78d-f1d12788e6b4
+
+
+
 ## The Hard Way
 
 If you do not want to use the demo script, you can peak 
